@@ -1,4 +1,4 @@
 # Auctionee
-<center>![AuctioneeLogo](https://i.ibb.co/RNr1h6x/blue.png)</center>
+<p align="center">![AuctioneeLogo](https://i.ibb.co/RNr1h6x/blue.png)</p>
 
- <center>Aplikasi Lelang online berbasis web</center>
+Aplikasi Lelang online berbasis web
