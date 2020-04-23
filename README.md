@@ -1,3 +1,3 @@
 # Auctionee
-![AuctioneeLogo](https://ibb.co/XD09y5h)
+![AuctioneeLogo](\public\argon\img\brand\blue.png)
  Aplikasi Lelang online berbasis web
